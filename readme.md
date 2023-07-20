@@ -5,16 +5,16 @@
 | AOSP                  | <img src="./images/aosp.bmp" width="150" style="border-radius:10%">                    | [google](https://android.googlesource.com/platform/manifest/) | 1.6 - 13        |
 | Lineage OS            | <img src="./images/lineage.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/lineageos)                        | 2.2 - 13        |
 | crDroid               | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 13      |
-| Pixel Experience      | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| Pixel Experience Plus | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| Resurrection Remix    | <img src="./images/RR.png" width="150" style="border-radius:10%">                      | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| SparkOS               | <img src="./images/Spark.webp" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| Evolution X           | <img src="./images/evox.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| Bootleggers           | <img src="./images/Bootlteggers.png" width="150" style="border-radius:10%">            | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| AOSPA                 | <img src="./images/aospa.jpeg" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| OmniROM               | <img src="./images/omni.webp" width="150" style="border-radius:10%">                   | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| AICP                  | <img src="./images/aicp.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/crdroidandroid)                   | a               |
-| Derpfest              | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/crdroidandroid)                   | a               |
+| Pixel Experience      | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/PixelExperience)                   | 8.1.0 - 13               |
+| Pixel Experience Plus | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/PixelExperience)                   | 8.1.0 - 13               |
+| Resurrection Remix    | <img src="./images/RR.png" width="150" style="border-radius:10%">                      | [GitHub](https://github.com/ResurrectionRemix)                   | 4.2.2 - 10               |
+| SparkOS               | <img src="./images/Spark.webp" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/Spark-Rom)                   | 11 - 13               |
+| Evolution X           | <img src="./images/evox.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/Evolution-X)                   | 9 - 13               |
+| Bootleggers           | <img src="./images/Bootlteggers.png" width="150" style="border-radius:10%">            | [GitHub](https://github.com/BootleggersROM)                   | 8 - 13               |
+| AOSPA                 | <img src="./images/aospa.jpeg" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/AOSPA)                   | 4.4.4 - 13               |
+| OmniROM               | <img src="./images/omni.webp" width="150" style="border-radius:10%">                   | [GitHub](https://github.com/omnirom)                   | 6 - 13               |
+| AICP                  | <img src="./images/aicp.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/AICP)                   | 4.0.0 - 13               |
+| Derpfest              | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/DerpFest-AOSP)                   | 11 - 13               |
 | Leaf                  | <img src="./images/leaf.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/crdroidandroid)                   | a               |
 | RisingOS              | <img src="./images/rising.png" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/crdroidandroid)                   | a               |
 | Elixir                | <img src="./images/elixiir.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | a               |
