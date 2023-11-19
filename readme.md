@@ -3,19 +3,19 @@
 | AOSP - Roms                   |      LOGOS                                                                             |Repos                                                          | Android Version |
 | ----------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
 | AICP                          | <img src="./images/aicp.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/AICP)                             | 4.0.0 - 13      |
-| AIM ROM                       | <img src="./images/AIMrom.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/AIMROM)                           | a               |
-| AlphaDroid  #EOL              | <img src="./images/alphadroid.png" width="150" style="border-radius:10%">              | [Github](https://github.com/AlrightAndroid-Brokenlab)         | a               |
+| AIM ROM                       | <img src="./images/AIMrom.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/AIMROM)                           | 7 - 10          |
+| AlphaDroid  #EOL              | <img src="./images/alphadroid.png" width="150" style="border-radius:10%">              | [Github](https://github.com/AlrightAndroid-Brokenlab)         | 10              |
 | AmogOS                        | <img src="./images/amogos.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/AmogOS-Rom)                       | 13              |
 | AmyROM                        | <img src="./images/amyrom.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/amyROM)                           | a               |
-| Ancient OS                    | <img src="./images/ancientOS.jpeg" width="150" style="border-radius:10%">              | [Github](https://github.com/Ancient-Lab)                      | a               |
-| AOKP                          | <img src="./images/AOKP.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/AOKP)                             | a               |
-| AOSDP                         | <img src="./images/AOSDP.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/AOSDP)                            | a               |
-| AOSiP                         | <img src="./images/AOSiP.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/AOSiP)                            | a               |
+| Ancient OS                    | <img src="./images/ancientOS.jpeg" width="150" style="border-radius:10%">              | [Github](https://github.com/Ancient-Lab)                      | 10              |
+| AOKP                          | <img src="./images/AOKP.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/AOKP)                             | 6 - 9           |
+| AOSDP                         | <img src="./images/AOSDP.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/AOSDP)                            | 8.1 - 9         |
+| AOSiP                         | <img src="./images/AOSiP.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/AOSiP)                            | 8 - 11          |
 | AOSPA                         | <img src="./images/aospa.jpeg" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/AOSPA)                            | 4.4.4 - 13      |
-| AOSP Extended                 | <img src="./images/AOSPextended.png" width="150" style="border-radius:10%">            | [Github](https://github.com/AospExtended)                     | a               |
+| AOSP Extended                 | <img src="./images/AOSPextended.png" width="150" style="border-radius:10%">            | [Github](https://github.com/AospExtended)                     | 7 - 12.1        |
 | AOSP                          | <img src="./images/aosp.bmp" width="150" style="border-radius:10%">                    | [google](https://android.googlesource.com/platform/manifest/) | 1.6 - 14        |
-| Aquari OS                     | <img src="./images/aquariOS.png" width="150" style="border-radius:10%">                | [Github](https://github.com/AquariOS)                         | a               |
-| Arrow OS                      | <img src="./images/arrowOS.png" width="150" style="border-radius:10%">                 | [Github](https://github.com/arrowos)                          | a               |
+| Aquari OS [EOL]               | <img src="./images/aquariOS.png" width="150" style="border-radius:10%">                | [Github](https://github.com/AquariOS)                         | ???             |
+| Arrow OS                      | <img src="./images/arrowOS.png" width="150" style="border-radius:10%">                 | [Github](https://github.com/arrowos)                          | 8 - 14          |
 | AwakenOS                      | <img src="./images/awaken.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/Project-Awaken)                   | 11 - 13         |
 | Bananadroid                   | <img src="./images/bananadroid.png" width="150" style="border-radius:10%">             | [GitHub](https://github.com/Bananadroid)                      | 11 - 13         |
 | BeastROMs                     | <img src="./images/beastRoms.png" width="150" style="border-radius:10%">               | [Github](https://github.com/BeastRoms)                        | a               |
@@ -37,30 +37,30 @@
 | Citrus CAF                    | <img src="./images/citrus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Citrus-CAF)                       | a               |
 | Colt OS                       | <img src="./images/colt.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/Colt-Enigma)                      | a               |
 | ConquerOS                     | <img src="./images/conquer.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/ConquerOS)                        | a               |
-| Corvus ROM                    | <img src="./images/corvus.png" width="150" style="border-radius:10%">        | [Github](https://github.com/Corvus-AOSP)                      | a               |
-| Cosmic OS                     | <img src="./images/cosmic.png" width="150" style="border-radius:10%">        | [Github](https://github.com/Cosmic-OS)                        | a               |
+| Corvus ROM                    | <img src="./images/corvus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Corvus-AOSP)                      | a               |
+| Cosmic OS                     | <img src="./images/cosmic.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Cosmic-OS)                        | a               |
 | crDroid                       | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 13      |
-| Cygnus ROM                    | <img src="./images/cygnus.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/cygnus-rom)                       | a               |
+| Cygnus ROM                    | <img src="./images/cygnus.jpeg" width="150" style="border-radius:10%">                 | [Github](https://github.com/cygnus-rom)                       | a               |
 | Cypher OS                     | <img src="./images/cypher.jpg" width="150" style="border-radius:10%">                  | [Github](https://github.com/CypherOS)                         | a               |
 | Derpfest                      | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/DerpFest-AOSP)                    | 11 - 14         |
-| Descendant X                  | <img src="./images/descendant.png" width="150" style="border-radius:10%">        | [Github](https://github.com/Descendant)                       | a               |
-| Dirty Unicorns                | <img src="./images/dirty.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DirtyUnicorns)                    | a               |
-| DivestOS                      | <img src="./images/dos.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/divested-mobile)                  | a               |
-| Dot OS                        | <img src="./images/dot.png" width="150" style="border-radius:10%">        | [Github](https://github.com/DotOS)                            | a               |
-| DroidX-UI                     | <img src="./images/droidx.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DroidX-UI)                        | 13-14              |
-| eFoundation                   | <img src="./images/efound.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/e-foundation)                     | a               |
+| Descendant X                  | <img src="./images/descendant.png" width="150" style="border-radius:10%">              | [Github](https://github.com/Descendant)                       | a               |
+| Dirty Unicorns                | <img src="./images/dirty.jpeg" width="150" style="border-radius:10%">                  | [Github](https://github.com/DirtyUnicorns)                    | a               |
+| DivestOS                      | <img src="./images/dos.jpeg" width="150" style="border-radius:10%">                    | [Github](https://github.com/divested-mobile)                  | a               |
+| Dot OS                        | <img src="./images/dot.png" width="150" style="border-radius:10%">                     | [Github](https://github.com/DotOS)                            | a               |
+| DroidX-UI                     | <img src="./images/droidx.jpeg" width="150" style="border-radius:10%">                 | [Github](https://github.com/DroidX-UI)                        | 13-14           |
+| eFoundation                   | <img src="./images/efound.jpeg" width="150" style="border-radius:10%">                 | [Github](https://github.com/e-foundation)                     | a               |
 | Elixir                        | <img src="./images/elixiir.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/Project-Elixir)                   | 12 - 14         |
-| ElytraOS                      | <img src="./images/elytra.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/elytraOS)                         | a               |
-| Eternity OS                   | <img src="./images/nein.jpg" width="150" style="border-radius:10%">        | [Github](https://github.com/EternityOS-Plus-Tiramisu)         | a               |
+| ElytraOS                      | <img src="./images/elytra.jpeg" width="150" style="border-radius:10%">                 | [Github](https://github.com/elytraOS)                         | a               |
+| Eternity OS                   | <img src="./images/nein.jpg" width="150" style="border-radius:10%">                    | [Github](https://github.com/EternityOS-Plus-Tiramisu)         | a               |
 | Evolution X                   | <img src="./images/evox.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/Evolution-X)                      | 9 - 14          |
-| ExTHmUI                       | <img src="./images/exthm.png" width="150" style="border-radius:10%">        | [Github](https://github.com/exthmui)                          | a               |
-| FireHound                     | <img src="./images/fire.png" width="150" style="border-radius:10%">        | [Github](https://github.com/FireHound)                        | a               |
-| Flamingo OS                   | <img src="./images/flamingo.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Flamingo-OS)                      | a               |
-| Floko ROM                     | <img src="./images/floko.png" width="150" style="border-radius:10%">        | [Github](https://github.com/FlokoROM)                         | a               |
-| Fluid OS                      | <img src="./images/fluid.png" width="150" style="border-radius:10%">        | [Github](https://github.com/project-fluid)                    | a               |
-| Fork LineageOS                | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/ForkLineageOS)                    | a               |
-| Freaky OS                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/FreakyOS)                         | a               |
-| Fusion OS                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Fusion-OS)                        | a               |
+| ExTHmUI                       | <img src="./images/exthm.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/exthmui)                          | a               |
+| FireHound                     | <img src="./images/fire.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/FireHound)                        | a               |
+| Flamingo OS                   | <img src="./images/flamingo.jpeg" width="150" style="border-radius:10%">               | [Github](https://github.com/Flamingo-OS)                      | a               |
+| Floko ROM                     | <img src="./images/floko.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/FlokoROM)                         | a               |
+| Fluid OS                      | <img src="./images/fluid.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/project-fluid)                    | a               |
+| Fork LineageOS                | <img src="./images/forklineage.jpeg" width="150" style="border-radius:10%">            | [Github](https://github.com/ForkLineageOS)                    | a               |
+| Freaky OS                     | <img src="./images/freaky.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/FreakyOS)                         | a               |
+| Fusion OS                     | <img src="./images/fusion.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Fusion-OS)                        | 13-14           |
 | GhostOS                       | <img src="./images/ghost.jpg" width="150" style="border-radius:10%">                   | [GitHub](https://jeykul.github.io/its-dead/)                  | 12              |
 | GrapheneOS                    | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/GrapheneOS)                       | a               |
 | Halogen OS                    | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/halogenOS)                        | a               |
