@@ -33,31 +33,31 @@
 | CatalystOS                    | <img src="./images/catalystOS.jpeg" width="150" style="border-radius:10%">             | [Github](https://github.com/catalyst-android)                 | a               |
 | Cesium OS                     | <img src="./images/ces" width="150" style="border-radius:10%">                         | [Github](https://github.com/CesiumOS-org)                     | a               |
 | Cherish OS                    | <img src="./images/Cherish OS.png" width="150" style="border-radius:10%">              | [GitHub](https://github.com/CherishOS)                        | 10 - 13         |
-| CipherOS                      | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CipherOS)                         | a               |
-| Citrus CAF                    | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Citrus-CAF)                       | a               |
-| Colt OS                       | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Colt-Enigma)                      | a               |
-| ConquerOS                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/ConquerOS)                        | a               |
-| Corvus ROM                    | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Corvus-AOSP)                      | a               |
-| Cosmic OS                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Cosmic-OS)                        | a               |
+| CipherOS                      | <img src="./images/cipher.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/CipherOS)                         | a               |
+| Citrus CAF                    | <img src="./images/citrus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Citrus-CAF)                       | a               |
+| Colt OS                       | <img src="./images/colt.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/Colt-Enigma)                      | a               |
+| ConquerOS                     | <img src="./images/conquer.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/ConquerOS)                        | a               |
+| Corvus ROM                    | <img src="./images/corvus.png" width="150" style="border-radius:10%">        | [Github](https://github.com/Corvus-AOSP)                      | a               |
+| Cosmic OS                     | <img src="./images/cosmic.png" width="150" style="border-radius:10%">        | [Github](https://github.com/Cosmic-OS)                        | a               |
 | crDroid                       | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 13      |
-| Cygnus ROM                    | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/cygnus-rom)                       | a               |
+| Cygnus ROM                    | <img src="./images/cygnus.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/cygnus-rom)                       | a               |
 | Cypher OS                     | <img src="./images/cypher.jpg" width="150" style="border-radius:10%">                  | [Github](https://github.com/CypherOS)                         | a               |
 | Derpfest                      | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/DerpFest-AOSP)                    | 11 - 14         |
-| Descendant X                  | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Descendant)                       | a               |
-| Dirty Unicorns                | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DirtyUnicorns)                    | a               |
-| DivestOS                      | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/divested-mobile)                  | a               |
-| Dot OS                        | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DotOS)                            | a               |
-| DroidX-UI                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DroidX-UI)                        | a               |
-| eFoundation                   | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/e-foundation)                     | a               |
+| Descendant X                  | <img src="./images/descendant.png" width="150" style="border-radius:10%">        | [Github](https://github.com/Descendant)                       | a               |
+| Dirty Unicorns                | <img src="./images/dirty.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DirtyUnicorns)                    | a               |
+| DivestOS                      | <img src="./images/dos.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/divested-mobile)                  | a               |
+| Dot OS                        | <img src="./images/dot.png" width="150" style="border-radius:10%">        | [Github](https://github.com/DotOS)                            | a               |
+| DroidX-UI                     | <img src="./images/droidx.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DroidX-UI)                        | 13-14              |
+| eFoundation                   | <img src="./images/efound.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/e-foundation)                     | a               |
 | Elixir                        | <img src="./images/elixiir.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/Project-Elixir)                   | 12 - 14         |
-| ElytraOS                      | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/elytraOS)                         | a               |
-| Eternity OS                   | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/EternityOS-Plus-Tiramisu)         | a               |
+| ElytraOS                      | <img src="./images/elytra.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/elytraOS)                         | a               |
+| Eternity OS                   | <img src="./images/nein.jpg" width="150" style="border-radius:10%">        | [Github](https://github.com/EternityOS-Plus-Tiramisu)         | a               |
 | Evolution X                   | <img src="./images/evox.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/Evolution-X)                      | 9 - 14          |
-| ExTHmUI                       | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/exthmui)                          | a               |
-| FireHound                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/FireHound)                        | a               |
-| Flamingo OS                   | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Flamingo-OS)                      | a               |
-| Floko ROM                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/FlokoROM)                         | a               |
-| Fluid OS                      | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/project-fluid)                    | a               |
+| ExTHmUI                       | <img src="./images/exthm.png" width="150" style="border-radius:10%">        | [Github](https://github.com/exthmui)                          | a               |
+| FireHound                     | <img src="./images/fire.png" width="150" style="border-radius:10%">        | [Github](https://github.com/FireHound)                        | a               |
+| Flamingo OS                   | <img src="./images/flamingo.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Flamingo-OS)                      | a               |
+| Floko ROM                     | <img src="./images/floko.png" width="150" style="border-radius:10%">        | [Github](https://github.com/FlokoROM)                         | a               |
+| Fluid OS                      | <img src="./images/fluid.png" width="150" style="border-radius:10%">        | [Github](https://github.com/project-fluid)                    | a               |
 | Fork LineageOS                | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/ForkLineageOS)                    | a               |
 | Freaky OS                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/FreakyOS)                         | a               |
 | Fusion OS                     | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Fusion-OS)                        | a               |
