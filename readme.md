@@ -2,32 +2,32 @@
 
 | AOSP - Roms           |      LOGOS                                            |Repos                                                                                           | Android Version |
 | --------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------- |
-| AOSP                  | <img src="./images/aosp.bmp" width="150" style="border-radius:10%">                    | [google](https://android.googlesource.com/platform/manifest/) | 1.6 - 13        |
-| Lineage OS            | <img src="./images/lineage.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/lineageos)                        | 2.2 - 13        |
+| AOSP                  | <img src="./images/aosp.bmp" width="150" style="border-radius:10%">                    | [google](https://android.googlesource.com/platform/manifest/) | 1.6 - 14        |
+| Lineage OS            | <img src="./images/lineage.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/lineageos)                        | 2.2 - 13 *     |
 | crDroid               | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 13      |
 | Pixel Experience      | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 13      |
 | Pixel Experience Plus | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 13      |
 | Resurrection Remix    | <img src="./images/RR.png" width="150" style="border-radius:10%">                      | [GitHub](https://jeykul.github.io/its-dead/)                  | 4.2.2 - 10      |
 | SparkOS               | <img src="./images/Spark.webp" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/Spark-Rom)                        | 11 - 13         |
-| Evolution X           | <img src="./images/evox.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/Evolution-X)                      | 9 - 13          |
+| Evolution X           | <img src="./images/evox.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/Evolution-X)                      | 9 - 14          |
 | Bootleggers           | <img src="./images/Bootlteggers.png" width="150" style="border-radius:10%">            | [GitHub](https://github.com/BootleggersROM)                   | 8 - 13          |
 | AOSPA                 | <img src="./images/aospa.jpeg" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/AOSPA)                            | 4.4.4 - 13      |
-| OmniROM               | <img src="./images/omni.webp" width="150" style="border-radius:10%">                   | [GitHub](https://github.com/omnirom)                          | 6 - 13          | 
+| OmniROM               | <img src="./images/omni.webp" width="150" style="border-radius:10%">                   | [GitHub](https://github.com/omnirom)                          | 6 - 13 *         | 
 | AICP                  | <img src="./images/aicp.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/AICP)                             | 4.0.0 - 13      |
-| Derpfest              | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/DerpFest-AOSP)                    | 11 - 13         |
-| Leaf                  | <img src="./images/leaf.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/LeafOS-Project)                   | 12 - 13         |
+| Derpfest              | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/DerpFest-AOSP)                    | 11 - 14         |
+| Leaf                  | <img src="./images/leaf.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/LeafOS-Project)                   | 12 - 14         |
 | RisingOS              | <img src="./images/rising.png" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/RisingTechOSS)                    | 13              |
-| Elixir                | <img src="./images/elixiir.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/Project-Elixir)                   | 12 - 13         |
+| Elixir                | <img src="./images/elixiir.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/Project-Elixir)                   | 12 - 14         |
 | PixelOS               | <img src="./images/pixeos.png" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/PixelOS-AOSP)                     | 11 - 13         |
 | carbonROM             | <img src="./images/carbon.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/CarbonROM)                        | 5.1.1 - 11      |
 | AmogOS                | <img src="./images/amogos.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/AmogOS-Rom)                       | 13              |
-| CalyxOS               | <img src="./images/calyxos.jpeg" width="150" style="border-radius:10%">                | [GitHub](https://github.com/CalyxOS)                          | 9 - 13          |
-| lmoDroid              | <img src="./images/lmodroid.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/LMODroid)                         | 11 - 13         |
+| CalyxOS               | <img src="./images/calyxos.jpeg" width="150" style="border-radius:10%">                | [GitHub](https://github.com/CalyxOS)                          | 9 - 14          |
+| lmoDroid              | <img src="./images/lmodroid.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/LMODroid)                         | 11 - 14         |
 | POSP                  | <img src="./images/posp.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/PotatoProject)                    | 8.1 - 13        |
 | StatixOS              | <img src="./images/statixos.jpeg" width="150" style="border-radius:10%">               | [GitHub](https://github.com/StatixOS)                         | 8.1 - 13        |
 | AwakenOS              | <img src="./images/awaken.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/Project-Awaken)                   | 11 - 13         |
 | ProtonPlus            | <img src="./images/protonplus.png" width="150" style="border-radius:10%">              | [GitHub](https://github.com/protonplus-org)                   | 12 - 13         |
-| TequilaOS             | <img src="./images/tequilaOS.png" width="150" style="border-radius:10%">               | [GitHub](https://github.com/TequilaOS)                        | 13              |
+| TequilaOS             | <img src="./images/tequilaOS.png" width="150" style="border-radius:10%">               | [GitHub](https://github.com/TequilaOS)                        | 13 - 14         |
 | Bananadroid           | <img src="./images/bananadroid.png" width="150" style="border-radius:10%">             | [GitHub](https://github.com/Bananadroid)                      | 11 - 13         |
 | GhostOS               | <img src="./images/ghost.jpg" width="150" style="border-radius:10%">                   | [GitHub](https://jeykul.github.io/its-dead/)                  | 12              |
 | StagOS                | <img src="./images/stag.jpeg" width="150" style="border-radius:10%">                   | [GitHub](https://github.com/StagOS/)                          | 9 - 13          |
@@ -38,28 +38,28 @@
 | Project Xtended       | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [GitHub](https://github.com/crdroidandroid)                   | 8.1 - 13        |
 | AICP                     | a                                                                                   | [Github](https://github.com/AICP)                             | a               |
 | AIM ROM                     | a                                                                                | [Github](https://github.com/AIMROM)                           | a               |
-| AlphaDroid            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/AlrightAndroid-Brokenlab)
-| AmyROM                | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/amyROM)
-| Ancient OS            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Ancient-Lab)
-| AOKP                  | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/AOKP)
-| AOSDP                 | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/AOSDP) 
-| AOSiP                 | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/AOSiP)
-| AOSP Extended         | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/AospExtended)
-| Aquari OS             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/AquariOS) 
-| Arrow OS              | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/arrowos)
-| BananaDroid           | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/bananadroid)||
-| BeastROMs             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/BeastRoms) |
-| Benzo ROM             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/BenzoRom) |
-| Bianca Project        | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/BiancaProject)|
-| Bliss ROMs            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/BlissRoms)||
-| Bootleggers ROM       | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/BootleggersROM)||
-| BsdkOS                | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/bsdkOS)|
-| CAF Extended          | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CAF-Extended)|
-| CalyxOS               | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CalyxOS)||
-| CandyRoms             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CandyRoms)||
-| Carbon ROM            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CarbonROM)||
-| CatalystOS            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/catalyst-android)||
-| Cesium OS             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CesiumOS-org)||
+| AlphaDroid            | <img src="./images/alphadroid.png" width="150" style="border-radius:10%">        | [Github](https://github.com/AlrightAndroid-Brokenlab)
+| AmyROM                | <img src="./images/amyrom.png" width="150" style="border-radius:10%">        | [Github](https://github.com/amyROM)
+| Ancient OS            | <img src="./images/ancientOS.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Ancient-Lab)
+| AOKP                  | <img src="./images/AOKP.png" width="150" style="border-radius:10%">        | [Github](https://github.com/AOKP)
+| AOSDP                 | <img src="./images/AOSDP.png" width="150" style="border-radius:10%">        | [Github](https://github.com/AOSDP) 
+| AOSiP                 | <img src="./images/AOSiP.png" width="150" style="border-radius:10%">        | [Github](https://github.com/AOSiP)
+| AOSP Extended         | <img src="./images/AOSPextended.png" width="150" style="border-radius:10%">        | [Github](https://github.com/AospExtended)
+| Aquari OS             | <img src="./images/aquariOS.png" width="150" style="border-radius:10%">        | [Github](https://github.com/AquariOS) 
+| Arrow OS              | <img src="./images/arrowOS.png" width="150" style="border-radius:10%">        | [Github](https://github.com/arrowos)
+| BananaDroid           | <img src="./images/bananadroid.png" width="150" style="border-radius:10%">        | [Github](https://github.com/bananadroid)||
+| BeastROMs             | <img src="./images/beastRoms.png" width="150" style="border-radius:10%">        | [Github](https://github.com/BeastRoms) |
+| Benzo ROM             | <img src="./images/benzo.png" width="150" style="border-radius:10%">        | [Github](https://github.com/BenzoRom) |
+| Bianca Project        | <img src="./images/biancaproject.png" width="150" style="border-radius:10%">        | [Github](https://github.com/BiancaProject)|
+| Bliss ROMs            | <img src="./images/blissrom.png" width="150" style="border-radius:10%">        | [Github](https://github.com/BlissRoms)||
+| Bootleggers ROM       | <img src="./images/Bootlteggers.png" width="150" style="border-radius:10%">        | [Github](https://github.com/BootleggersROM)||
+| BsdkOS                | <img src="./images/bsdk.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/bsdkOS)|
+| CAF Extended          | <img src="./images/cafextended.png" width="150" style="border-radius:10%">        | [Github](https://github.com/CAF-Extended)|
+| CalyxOS               | <img src="./images/calyxos.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CalyxOS)||
+| CandyRoms             | <img src="./images/candyroms.png" width="150" style="border-radius:10%">        | [Github](https://github.com/CandyRoms)||
+| Carbon ROM            | <img src="./images/carbon.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CarbonROM)||
+| CatalystOS            | <img src="./images/catalystOS.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/catalyst-android)||
+| Cesium OS             | <img src="./images/ces" width="150" style="border-radius:10%">        | [Github](https://github.com/CesiumOS-org)||
 | Cherish OS            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CherishOS)|
 | CipherOS              | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CipherOS)||
 | Citrus CAF            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Citrus-CAF) |
@@ -69,7 +69,7 @@
 | Cosmic OS             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Cosmic-OS)||
 | CrDroid               | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/crdroidandroid)||
 | Cygnus ROM            | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/cygnus-rom)|
-| Cypher OS             | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/CypherOS)|
+| Cypher OS             | <img src="./images/cypher.jpg" width="150" style="border-radius:10%">        | [Github](https://github.com/CypherOS)|
 | Derpfest              | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DerpLab)||
 | Descendant X          | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Descendant)||
 | Dirty Unicorns        | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/DirtyUnicorns)||
