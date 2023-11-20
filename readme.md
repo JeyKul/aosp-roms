@@ -29,7 +29,6 @@
 | CalyxOS                       | <img src="./images/calyxos.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/CalyxOS)                          | a               |
 | CandyRoms                     | <img src="./images/candyroms.png" width="150" style="border-radius:10%">               | [Github](https://github.com/CandyRoms)                        | a               |
 | carbonROM                     | <img src="./images/carbon.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/CarbonROM)                        | 5.1.1 - 11      |
-| Carbon ROM                    | <img src="./images/carbon.jpeg" width="150" style="border-radius:10%">                 | [Github](https://github.com/CarbonROM)                        | a               |
 | CatalystOS                    | <img src="./images/catalystOS.jpeg" width="150" style="border-radius:10%">             | [Github](https://github.com/catalyst-android)                 | a               |
 | Cesium OS                     | <img src="./images/ces" width="150" style="border-radius:10%">                         | [Github](https://github.com/CesiumOS-org)                     | a               |
 | Cherish OS                    | <img src="./images/Cherish OS.png" width="150" style="border-radius:10%">              | [GitHub](https://github.com/CherishOS)                        | 10 - 13         |
