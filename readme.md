@@ -1,5 +1,8 @@
 # A list of AOSP - ROMS
 
+#### [sort](https://github.com/JeyKul/aosp-roms/blob/main/sort.md) 
+
+
 | AOSP - Roms                   |      LOGOS                                                                             |Repos                                                          | Android Version |EOL|
 | ----------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |-- |
 | AICP                          | <img src="./images/aicp.png" width="150" style="border-radius:10%">                    | [GitHub](https://github.com/AICP)                             | 4.0.0 - 13      |
@@ -37,7 +40,7 @@
 | ConquerOS                     | <img src="./images/conquer.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/ConquerOS)                        | 10 - 13         |
 | Corvus ROM                    | <img src="./images/corvus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Corvus-AOSP)                      | 13 - 13         |
 | Cosmic OS                     | <img src="./images/cosmic.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Cosmic-OS)                        | 8 - 10          | ✅|
-| crDroid                       | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 13      |
+| crDroid                       | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 14      |
 | Cygnus ROM                    | <img src="./images/cygnus.jpeg" width="150" style="border-radius:10%">                 | [Github](https://github.com/cygnus-rom)                       | 10 - 13         |
 | Cypher OS                     | <img src="./images/cypher.jpg" width="150" style="border-radius:10%">                  | [Github](https://github.com/CypherOS)                         | 7 - 10          | ✅|
 | Derpfest                      | <img src="./images/derpfest.png" width="150" style="border-radius:10%">                | [GitHub](https://github.com/DerpFest-AOSP)                    | 11 - 14         |
@@ -89,8 +92,8 @@
 | Paranoid Android              | <img src="./images/aospa.jpeg" width="150" style="border-radius:10%">                  | [Github](https://github.com/AOSPA)                            |find out yourself|
 | Pixel Blaster OS              | <img src="./images/blaster.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/PixelBlaster-OS)                  | 12 - 13         |
 | Pixel Dust                    | <img src="./images/dust.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/PixelDust-Project-X)              | 10              | ✅|
-| Pixel Experience              | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 13      |
-| Pixel Experience Plus         | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 13      |
+| Pixel Experience              | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 14      |
+| Pixel Experience Plus         | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 14      |
 | PixelExtended ROM             | <img src="./images/pex.png" width="150" style="border-radius:10%">                     | [Github](https://github.com/PixelExtended)                    | 11 - 14         |
 | PixelOS                       | <img src="./images/pixeos.png" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/PixelOS-AOSP)                     | 11 - 13         |
 | PixelPlusUI                   | <img src="./images/PixelPlusUI.jpeg" width="150" style="border-radius:10%">            | [GitHub](https://github.com/PixelPlusUI)                      | 12.1 - 13       |
