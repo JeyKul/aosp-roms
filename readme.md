@@ -32,7 +32,7 @@
 | CandyRoms                     | <img src="./images/candyroms.png" width="150" style="border-radius:10%">               | [Github](https://github.com/CandyRoms)                        | 10 - 14         |
 | carbonROM                     | <img src="./images/carbon.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/CarbonROM)                        | 5.1.1 - 11      | ✅|
 | CatalystOS                    | <img src="./images/catalystOS.jpeg" width="150" style="border-radius:10%">             | [Github](https://github.com/catalyst-android)                 | 13              |
-| Cesium OS                     | <img src="./images/ces" width="150" style="border-radius:10%">                         | [Github](https://github.com/CesiumOS-org)                     | 11 - 13         |
+| Cesium OS                     | <img src="./images/cesium.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/CesiumOS-org)                     | 11 - 13         |
 | Cherish OS                    | <img src="./images/Cherish OS.png" width="150" style="border-radius:10%">              | [GitHub](https://github.com/CherishOS)                        | 10 - 13         |
 | CipherOS                      | <img src="./images/cipher.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/CipherOS)                         | 12 - 14         |
 | Citrus CAF                    | <img src="./images/citrus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Citrus-CAF)                       | 6 - 9           | ✅|
