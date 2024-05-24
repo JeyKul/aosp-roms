@@ -64,6 +64,7 @@
 | Fusion OS                     | <img src="./images/fusion.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Fusion-OS)                        | 13 - 14         |
 | GhostOS                       | <img src="./images/ghost.jpg" width="150" style="border-radius:10%">                   | [GitHub](https://jeykul.github.io/its-dead/)                  | 12              | ✅|
 | GrapheneOS                    | <img src="./images/grapheneOS.png" width="150" style="border-radius:10%">              | [Github](https://github.com/GrapheneOS)                       | 13 - 14         |
+| Halcyon                       | <img src="./images/halcyon.jpg" width="150" style="border-radius:10%">                 | [Github](https://github.com/halcyonproject)                        | 13  - 14         |
 | Halogen OS                    | <img src="./images/halogen.png" width="150" style="border-radius:10%">                 | [Github](https://github.com/halogenOS)                        | 6  - 14         |
 | Havoc OS                      | <img src="./images/havocOS.png" width="150" style="border-radius:10%">                 | [Github](https://github.com/Havoc-OS)                         | 9  - 13         |
 | HentaiOS                      | <img src="./images/hentai.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/hentaiOS)                         | 10 - 14         |
