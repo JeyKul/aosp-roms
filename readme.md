@@ -32,12 +32,12 @@
 | CandyRoms                     | <img src="./images/candyroms.png" width="150" style="border-radius:10%">               | [Github](https://github.com/CandyRoms)                        | 10 - 14         |
 | carbonROM                     | <img src="./images/carbon.jpeg" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/CarbonROM)                        | 5.1.1 - 11      | ✅|
 | CatalystOS                    | <img src="./images/catalystOS.jpeg" width="150" style="border-radius:10%">             | [Github](https://github.com/catalyst-android)                 | 13              |
-| Cesium OS                     | <img src="./images/cesium.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/CesiumOS-org)                     | 11 - 13         |
+| Cesium OS                     | <img src="./images/cesium.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/CesiumOS-org)                     | 11 - 13         | ✅|
 | Cherish OS                    | <img src="./images/Cherish OS.png" width="150" style="border-radius:10%">              | [GitHub](https://github.com/CherishOS)                        | 10 - 13         |
 | CipherOS                      | <img src="./images/cipher.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/CipherOS)                         | 12 - 14         |
 | Citrus CAF                    | <img src="./images/citrus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Citrus-CAF)                       | 6 - 9           | ✅|
 | Colt OS                       | <img src="./images/colt.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/Colt-Enigma)                      | 9 - 13          |
-| ConquerOS                     | <img src="./images/conquer.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/ConquerOS)                        | 10 - 13         |
+| ConquerOS                     | <img src="./images/conquer.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/ConquerOS)                        | 10 - 13         | ✅|
 | Corvus ROM                    | <img src="./images/corvus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Corvus-AOSP)                      | 13 - 13         |
 | Cosmic OS                     | <img src="./images/cosmic.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Cosmic-OS)                        | 8 - 10          | ✅|
 | crDroid                       | <img src="./images/crdroid.png" width="150" style="border-radius:10%">                 | [GitHub](https://github.com/crdroidandroid)                   | 4.4.4 - 14      |
@@ -83,17 +83,17 @@
 | Magnus OS                     | <img src="./images/magnus.png" width="150" style="border-radius:10%">                  | [Github](https://github.com/Magnus-OS)                        | 11              | ✅|
 | Mallu OS                      | <img src="./images/mallu.jpeg" width="150" style="border-radius:10%">                  | [Github](https://github.com/MalluOS)                          | 10 - 11         | ✅|
 | MoKee ROM                     | <img src="./images/mokee.png" width="150" style="border-radius:10%">                   | [Github](https://github.com/MoKee)                            | 4.2 - 10        | ✅|
-| MSM Xtended   #######         | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Project-Xtended)                  | 8.1 - 13        |
+| MSM Xtended   | <img src="./images/Project Xtended.jpeg" width="150" style="border-radius:10%">        | [Github](https://github.com/Project-Xtended)                  | 8.1 - 13        |
 | Nitrogen OS                   | <img src="./images/nitro.jpeg" width="150" style="border-radius:10%">                  | [Github](https://github.com/nitrogen-project)                 | 7 - 14          |
-| Nusantara Project             | <img src="./images/nusantara.jpeg" width="150" style="border-radius:10%">              | [Github](https://github.com/Nusantara-ROM)                    | 13              |
+| Nusantara Project             | <img src="./images/nusantara.jpeg" width="150" style="border-radius:10%">              | [Github](https://github.com/Nusantara-ROM)                    | 13              | ✅|
 | Octavi OS                     | <img src="./images/octaviOS.png" width="150" style="border-radius:10%">                | [Github](https://github.com/Octavi-Staging)                   | 13 - 14         |
 | OmniROM                       | <img src="./images/omni.webp" width="150" style="border-radius:10%">                   | [GitHub](https://github.com/omnirom)                          | 6 - 13 *        | 
 | PalladiumOS                   | <img src="./images/palladium.jpeg" width="150" style="border-radius:10%">              | [Github](https://github.com/Palladium-OS)                     | 11 - 12.1       | ✅|
 | Paranoid Android              | <img src="./images/aospa.jpeg" width="150" style="border-radius:10%">                  | [Github](https://github.com/AOSPA)                            |find out yourself|
 | Pixel Blaster OS              | <img src="./images/blaster.jpeg" width="150" style="border-radius:10%">                | [Github](https://github.com/PixelBlaster-OS)                  | 12 - 13         |
 | Pixel Dust                    | <img src="./images/dust.png" width="150" style="border-radius:10%">                    | [Github](https://github.com/PixelDust-Project-X)              | 10              | ✅|
-| Pixel Experience              | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 14      |
-| Pixel Experience Plus         | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 14      |
+| PixelExperience              | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%"></a>     | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 14      | ✅|
+| PixelExperience Plus         | <img src="./images/PixelExperience.png" width="150" style="border-radius:10%">         | [GitHub](https://github.com/PixelExperience)                  | 8.1.0 - 14      | ✅|
 | PixelExtended ROM             | <img src="./images/pex.png" width="150" style="border-radius:10%">                     | [Github](https://github.com/PixelExtended)                    | 11 - 14         |
 | PixelOS                       | <img src="./images/pixeos.png" width="150" style="border-radius:10%">                  | [GitHub](https://github.com/PixelOS-AOSP)                     | 11 - 13         |
 | PixelPlusUI                   | <img src="./images/PixelPlusUI.jpeg" width="150" style="border-radius:10%">            | [GitHub](https://github.com/PixelPlusUI)                      | 12.1 - 13       |
